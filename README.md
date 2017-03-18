@@ -1,0 +1,4 @@
+闪闪红星项目目录介绍
+project 用来存放后台前途项目
+documentfile 用来存放需求文档流程图以及表字段更新新增描述文档
+frontendfile 用来存放前端,ui相关文件
